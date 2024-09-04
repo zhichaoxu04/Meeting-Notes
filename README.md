@@ -37,10 +37,10 @@
 - The coverage is not good (below 50%) if we proceed to perform meta-analysis in these cases ($M_T$- $M_1$ - $M_2$ - Noise: 0-50-50-1400). In many cases, the iSIS still keeps a few (1 or 2) variables in the model, which cause the bias. If we pool the data (CF-OLS), the coverage is still not good (around 50%).
 - Maybe go with the updated sparse case ($M_T$ - $M_1$ - $M_2$ - Noise: 5-0-0-1495 / 15-0-0-1485 / 5-0-0-4995 / 15-0-0-4985), where we have the promising results in the main text.
 
+### MetaR2M: # of genes in MEGA data
 
 
-
-
+### MetaR2M: combine MESA for more selected genes
 
 
 
