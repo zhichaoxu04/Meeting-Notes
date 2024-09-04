@@ -40,12 +40,12 @@
 ### MetaR2M: # of genes in MEGA data
 - Check the number of overlap genes
 
-| Study   | Off-RNA    | Gen3-RNA    | FHS-Micro   | MESA-RNA    |
-| :---:   | :---:      | :---:       | :---:       | :---:       | 
-| Off-RNA | 48384      | 47519       |  14730      | 34679       |
-| Off-RNA | 301        | 283         |      S       |           |
-| Off-RNA | 301        | 283         |      S       |           |
-| Off-RNA | 301        | 283         |      S       |           |
+| Study     | Off-RNA    | Gen3-RNA    | FHS-Micro   | MESA-RNA    |
+| :---:     | :---:      | :---:       | :---:       | :---:       | 
+| Off-RNA   | 48384      | 47519       |  14730      | 34679       |
+| Gen3-RNA  | /          | 51928       |   14844     | 38038       |
+| FHS-Micro | /          | /           |   17873     | 5370        |
+| MESA-RNA  | /          | /           |     /       | 44069       |
 
 
 
