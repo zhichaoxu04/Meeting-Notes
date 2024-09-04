@@ -1,4 +1,4 @@
-# Meeting-Notes
+# Meeting Notes
 
 ## 2024-09-04
 
