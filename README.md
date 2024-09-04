@@ -39,7 +39,7 @@
 
 ### MetaR2M: # of genes in MEGA data
 
-- Combine MESA into 1 study (we have it in the supplementary before adjusting Top 10 PCs).
+- Combine MESA into 1 study (we have it in the supplementary before adjusting Top 10 PCs). Repalce it?
 - MESA-ALL selected ~70 mediators.
 - The source code from iSIS package to calculate the number of pedictors recuited by (I)SIS.
   ```R
