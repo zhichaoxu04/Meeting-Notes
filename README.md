@@ -38,6 +38,15 @@
 - Maybe go with the updated sparse case ($M_T$ - $M_1$ - $M_2$ - Noise: 5-0-0-1495 / 15-0-0-1485 / 5-0-0-4995 / 15-0-0-4985), where we have the promising results in the main text.
 
 ### MetaR2M: # of genes in MEGA data
+- Check the number of overlap genes
+
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
+
+
+
+### MetaR2M: combine MESA for more selected genes
 
 - Combine MESA into 1 study (we have it in the supplementary before adjusting Top 10 PCs). Repalce it?
 - MESA-ALL selected ~70 mediators.
@@ -65,8 +74,4 @@
   }
 
   ```
-
-### MetaR2M: combine MESA for more selected genes
-
-
 
