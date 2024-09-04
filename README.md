@@ -39,6 +39,32 @@
 
 ### MetaR2M: # of genes in MEGA data
 
+- Combine MESA into 1 study (we have it in the supplementary before adjusting Top 10 PCs).
+- MESA-ALL selected ~70 mediators.
+- The source code from iSIS package to calculate the number of pedictors recuited by (I)SIS.
+  ```R
+  calculate.nsis <- function(family, varISIS, n, p) {
+  if (varISIS == "aggr") 
+    nsis = floor(n/log(n)) else {
+      if (family == "gaussian") {
+        nsis = floor(n/log(n))
+      }
+      if (family == "binomial") {
+        nsis = floor(n/(4 * log(n)))
+      }
+      if (family == "poisson") {
+        nsis = floor(n/(2 * log(n)))
+      }
+      if (family == "cox") {
+        nsis = floor(n/(4 * log(n)))
+      }
+    }
+  if (p < n) 
+    nsis = p
+  return(nsis)
+}
+
+  ```
 
 ### MetaR2M: combine MESA for more selected genes
 
