@@ -1,6 +1,6 @@
 # Meeting Notes
 
-## 2024-09-04
+## 2024-09-04 Wed
 
 ### MetaR2M: skewed raw data
 
