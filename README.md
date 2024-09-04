@@ -47,6 +47,9 @@
 | FHS-Micro | /          | /           |   17873     | 5370        |
 | MESA-RNA  | /          | /           |     /       | 44069       |
 
+- The # of overlap between FHS-RNA (Off-RNA + Gen3-RNA) and FHS-Micro is over 80%.
+- The overlap between FHS-Micro and MESA-RNA is limited.
+
 
 
 ### MetaR2M: combine MESA for more selected genes
