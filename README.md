@@ -1,5 +1,9 @@
 # Meeting Notes
 
+## 2024-09-11 Wed
+
+### MetaR2M: experiment around `nsis` in SIS function for selected genes
+
 ## 2024-09-04 Wed
 
 ### MetaR2M: skewed raw data
