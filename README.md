@@ -4,7 +4,7 @@
 
 ### CARDIA data cleaning
 
-
+Refer to another private [repository](https://github.com/zhichaoxu04/CARDIA).
 
 
 ### MetaR2M: experiment around `nsis` in SIS function for selected genes
