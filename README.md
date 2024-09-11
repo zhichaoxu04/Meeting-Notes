@@ -2,6 +2,11 @@
 
 ## 2024-09-11 Wed
 
+### CARDIA data clean
+
+
+
+
 ### MetaR2M: experiment around `nsis` in SIS function for selected genes
 
 For the SBP outcome, 
