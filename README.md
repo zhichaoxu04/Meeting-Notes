@@ -5,9 +5,9 @@
 ### MetaR2M: experiment around `nsis` in SIS function for selected genes
 
 For the SBP outcome, 
-- we set `nsis` as the NULL, which is the default
+- we set `nsis` as the NULL, which is the default: $n/log(n)$.
   <div align="center"><img src="Fig/RDA-nsis-300.png" ></div>
-- we set `nsis` = 300
+- we set `nsis` = 300, the selected genes increased. The FHS selected similar number of genes as MEGA data but MESA did not. 
   <div align="center"><img src="Fig/RDA-SBP-NSIS-300.png" ></div>
 
 
