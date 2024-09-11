@@ -15,8 +15,18 @@ For the SBP outcome,
 - we set `nsis` = 300, the selected genes increased. The FHS selected similar number of genes as MEGA data but MESA did not. 
   <div align="center"><img src="Fig/RDA-SBP-NSIS-300.png" ></div>
 
+### MetaR2M: response letter
+Reviewer 1:
+- The proposed definition of mediation effect with R-squared measure lacks causal explanation. The application of the potential outcome framework to describe the R-squared measure for causal explanation remains unclear. The resolution of this key issue is necessary when utilizing the R-squared measure to comprehend causal mediation effects.
+- The causal pathway analysis of R-squared measure based mediation effect is difficult to comprehensive. Figure 1 is not suitable for the variance-based R-squared measure of the total mediation effect. For example, when the exposure $X$ is non-random, then $X$ does not affect the variance of Y . That is to say, the R-squared measure is applicable only to random $X$, while it is not suitable for fixed design $X$.
+  - Should we use the new Figure 1 as in Biostatistics paper?
+  - Explain we could perfrom the R-squared measure as long as there is variability in exposure $X$ and outcome $Y$? 
+- The rationale behind conducting a meta-analysis of the total mediation effect remains unclear. How can the consistency of multiple studies originating from the same mediation models be assessed? Further elucidation is required regarding the rationale and benefits of conducting meta-analyses.
 
 
+Reviewer 3:
+- It is not clear how to conduct a meta-analysis with R2 with heterogeneity in confounders.
+- Proposed work has connections with estimation of heritability explained by genetic markers  ([Yang et al. [2011]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3014363/)). In contrast to proposed method by author, heritability can be explained from the summary level data. Authors propose to run their code on the individual study and then aggregate, which makes applicability of the proposed approach limited.
 
 
 
