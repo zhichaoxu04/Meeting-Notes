@@ -2,7 +2,7 @@
 
 ## 2024-09-11 Wed
 
-### CARDIA data clean
+### CARDIA data cleaning
 
 
 
