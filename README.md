@@ -22,6 +22,7 @@ Reviewer 1:
   - Should we use the new Figure 1 as in Biostatistics paper?
   - Explain we could perfrom the R-squared measure as long as there is variability in exposure $X$ and outcome $Y$? 
 - The rationale behind conducting a meta-analysis of the total mediation effect remains unclear. How can the consistency of multiple studies originating from the same mediation models be assessed? Further elucidation is required regarding the rationale and benefits of conducting meta-analyses.
+  - Show the benefits of meta-analysis in comparing it with MEGA analysis?
 
 
 Reviewer 3:
