@@ -8,6 +8,7 @@ For the SBP outcome,
 - we set `nsis` as the NULL, which is the default
   <div align="center"><img src="Fig/RDA-nsis-300.png" ></div>
 - we set `nsis` = 300
+  <div align="center"><img src="Fig/RDA-SBP-NSIS-300.png" ></div>
 
 
 
