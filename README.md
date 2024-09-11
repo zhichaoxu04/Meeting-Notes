@@ -4,6 +4,10 @@
 
 ### MetaR2M: experiment around `nsis` in SIS function for selected genes
 
+For the SBP outcome, 
+- we set `nsis` as the NULL, which is the default
+  <div align="center"><img src="Fig/RDA-nsis-300.png" ></div>
+- we set `nsis` = 300
 
 
 
