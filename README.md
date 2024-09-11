@@ -18,6 +18,7 @@ For the SBP outcome,
 ### MetaR2M: response letter
 Reviewer 1:
 - The proposed definition of mediation effect with R-squared measure lacks causal explanation. The application of the potential outcome framework to describe the R-squared measure for causal explanation remains unclear. The resolution of this key issue is necessary when utilizing the R-squared measure to comprehend causal mediation effects.
+
 - The causal pathway analysis of R-squared measure based mediation effect is difficult to comprehensive. Figure 1 is not suitable for the variance-based R-squared measure of the total mediation effect. For example, when the exposure $X$ is non-random, then $X$ does not affect the variance of Y . That is to say, the R-squared measure is applicable only to random $X$, while it is not suitable for fixed design $X$.
   - Should we use the new Figure 1 as in Biostatistics paper?
   - Explain we could perfrom the R-squared measure as long as there is variability in exposure $X$ and outcome $Y$? 
