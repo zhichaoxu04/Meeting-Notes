@@ -4,6 +4,8 @@
 
 ### MetaR2M: experiment around `nsis` in SIS function for selected genes
 
+For MEGA, 
+
 For the SBP outcome, 
 - we set `nsis` as $\max(n/log(n), 0.01*d),$ where $d$ is the number of genes.
   <div align="center"><img src="Fig/SBP-3_091724.png" ></div>
