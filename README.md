@@ -1,5 +1,13 @@
 # Meeting Notes
 
+## 2024-09-18 Wed
+
+### MetaR2M: experiment around `nsis` in SIS function for selected genes
+
+For the SBP outcome, 
+- we set `nsis` as $\max(n/log(n), 0.01*d),$ where $d$ is the number of genes.
+
+
 ## 2024-09-11 Wed
 
 ### CARDIA data cleaning
