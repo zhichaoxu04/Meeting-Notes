@@ -12,7 +12,7 @@ For the SBP outcome,
 
 For the HDL outcome, 
 - we set `nsis` as $\max(n/log(n), 0.01*d),$ where $d$ is the number of genes.
-  <div align="center"><img src="Fig/HDL-1_091724.png" ></div>
+  <div align="center"><img src="Fig/HDL-3_091724.png" ></div>
 - we set `nsis` as $\max(n/log(n), 0.02*d),$ where $d$ is the number of genes.
   <div align="center"><img src="Fig/HDL-2_091724.png" ></div>
 
