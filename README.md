@@ -3,6 +3,13 @@
 ## 2024-09-25 Wed
 ### MetaR2M: update the real data analysis figure in the revised manuscript
 
+For the main manuscript, we use MESA-all and go with `nsis` as $\max(n/\log(n), 0.02*d).
+
+- <div align="center"><img src="Fig/RDA-1_092424.png" ></div>
+
+For the supplementary, we use four MESA cohorts.
+
+- <div align="center"><img src="Fig/RDA-2_092424.png" ></div>
 
 
 ## 2024-09-18 Wed
