@@ -11,6 +11,9 @@ For the supplementary, we use four MESA cohorts.
 
 - <div align="center"><img src="Fig/RDA-2_092424.png" ></div>
 
+### Validate SOS and proportion
+
+
 
 ## 2024-09-18 Wed
 ### MetaR2M: experiment around `nsis` in SIS function for selected genes
