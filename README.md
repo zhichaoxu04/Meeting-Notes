@@ -1,7 +1,11 @@
 # Meeting Notes
 
-## 2024-09-18 Wed
+## 2024-09-25 Wed
+### MetaR2M: update the real data analysis figure in the revised manuscript
 
+
+
+## 2024-09-18 Wed
 ### MetaR2M: experiment around `nsis` in SIS function for selected genes
 
 For MEGA, $n/\log(g) \approx 670$. 
