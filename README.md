@@ -13,6 +13,9 @@ For the supplementary, we use four MESA cohorts.
 
 ### Validate SOS and proportion
 
+- We assume we select the correct set of the true mediators and perform the inference.
+- Compare the estimated SOS with $=1-\frac{\gamma^2}{(\gamma+ {\beta}^T  \alpha)^2(1+ \alpha^T  D^{-1}  \alpha)}$
+- Almost the same in the setting (150,150,150,1050).
 
 
 ## 2024-09-18 Wed
