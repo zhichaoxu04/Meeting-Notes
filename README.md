@@ -17,6 +17,9 @@ For the supplementary, we use four MESA cohorts.
 - Compare the estimated SOS with $=1-\frac{\gamma^2}{(\gamma+ {\beta}^T  \alpha)^2(1+ \alpha^T  D^{-1}  \alpha)}$
 - Almost the same in the setting (150,150,150,1050).
 
+### Submit the CFR2M to CRAN
+
+- by the end of this week
 
 ## 2024-09-18 Wed
 ### MetaR2M: experiment around `nsis` in SIS function for selected genes
