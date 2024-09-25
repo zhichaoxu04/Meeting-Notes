@@ -3,7 +3,7 @@
 ## 2024-09-25 Wed
 ### MetaR2M: update the real data analysis figure in the revised manuscript
 
-For the main manuscript, we use MESA-all and go with `nsis` as $\max(n/\log(n), 0.02*d). For the mean-based measure, we use 100 bootstraps to compute SE.
+For the main manuscript, we use MESA-all and go with `nsis` as $\max(n/\log(n), 0.02*d)$. For the mean-based measure, we use 100 bootstraps to compute SE.
 
 - <div align="center"><img src="Fig/RDA-1_092424.png" ></div>
 
