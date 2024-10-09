@@ -2,7 +2,27 @@
 
 ## 2024-10-09 Wed
 
+### ENAR submission: [Distinguished Student Paper Awards](https://www.enar.org/meetings/StudentPaperAwards/index.cfm)
 
+Your submission should include:
+
+- a manuscript submitted as pdf
+- a brief abstract (1200-character count max)
+
+A manuscript should include:
+
+- a maximum of 25 lines per page, double spaced
+- 1-inch margins
+- 12-point font
+- a maximum of 15 pages*
+- a title page with title, brief abstract (1 paragraph in length) and keywords
+- References typed using the style of the Biometrics journal
+- Tables and figures at the end of manuscript
+- no more than SIX (6) tables and/or figures
+
+*Title page, up to 6 tables/figures and references are NOT included in the 15-page limit.
+
+### MR
 
 ## 2024-09-25 Wed
 ### MetaR2M: update the real data analysis figure in the revised manuscript
